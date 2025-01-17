@@ -1,0 +1,19 @@
+{
+  "name": "kaibanjs-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.24",
+    "@langchain/groq": "^0.1.3",
+    "kaibanjs": "^0.14.0",
+    "next": "15.1.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-markdown": "9.0.3"
+  }
+}
